@@ -11,7 +11,7 @@ Correct user wrong pass     admin@yourstore.com     xyxzx
 Wrong user right pass     ad@yourstore.com     admin
 Wrong user empty pass     axyz@yourstore.com     ${EMPTY}
 Wrong user wrong pass     anan@yourstore.com     xyxzx123456
-
+Wrong user wrong pass     anan@yourstore.com     123456
 
 *** Keywords ***
 Invalid login
