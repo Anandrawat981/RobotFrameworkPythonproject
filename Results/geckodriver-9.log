@@ -1,0 +1,18 @@
+1716099757388	geckodriver	INFO	Listening on 127.0.0.1:57368
+1716099760474	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofilenyREv7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716099760800	Marionette	INFO	Marionette enabled
+1716099760912	Marionette	INFO	Listening on port 57378
+WebDriver BiDi listening on ws://127.0.0.1:57369
+Read port: 57378
+1716099761118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57369/devtools/browser/aa276829-1206-4777-bb6a-8f4269dce778
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1716099790986	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716100936870	Marionette	INFO	Stopped listening on port 57378
+Dynamically enable window occlusion 1

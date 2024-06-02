@@ -1,0 +1,25 @@
+1716105554582	geckodriver	INFO	Listening on 127.0.0.1:60685
+1716105557664	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofilej52Qo8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716105557967	Marionette	INFO	Marionette enabled
+1716105558082	Marionette	INFO	Listening on port 60695
+WebDriver BiDi listening on ws://127.0.0.1:60686
+Read port: 60695
+1716105558302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60686/devtools/browser/952b5561-84e9-434a-9173-46d704e2b0b7
+1716105561744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:468:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:219:33
+1716105564884	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:468:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:219:33
+1716105588019	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1212: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1716105769244	Marionette	INFO	Stopped listening on port 60695
+Dynamically enable window occlusion 1

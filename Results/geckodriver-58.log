@@ -1,0 +1,41 @@
+1716483392121	geckodriver	INFO	Listening on 127.0.0.1:52809
+1716483395245	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofileppnhJm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716483395869	Marionette	INFO	Marionette enabled
+1716483395985	Marionette	INFO	Listening on port 52820
+WebDriver BiDi listening on ws://127.0.0.1:52810
+Read port: 52820
+1716483396231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52810/devtools/browser/92229d76-1a45-4bb5-b0a0-638e04418481
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8mk731zYjtAK1ZddBZG3rzb7fLiVBXbgU8YQ_Ehq5z0.js line 2 > eval line 1590 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716483426672	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c, line 310: Script terminated by timeout at:
+W@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:310:16
+oj@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:279:84
+Fs@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:410:190
+ca.Cm@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:554:73
+ca.Bm/</<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:546:218
+Ml@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:300:371
+Xl@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:303:392
+ca.Bm/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:546:204
+c@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:419:169
+rt@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:420:269
+ca.Bm@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:546:190
+c@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:567:675
+Um@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:314:298
+Tm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:317:278
+Tm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:315:207
+Mm@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:312:770
+xG/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:568:178
+ca.Mk/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:516:126
+ca.Mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:515:420
+invokeTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:8497
+runTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:3906
+invokeTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:9547
+p@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:21830
+f@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:22076
+
+1716483599375	Marionette	INFO	Stopped listening on port 52820
+Dynamically enable window occlusion 1

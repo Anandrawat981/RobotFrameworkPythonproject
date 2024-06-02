@@ -1,0 +1,19 @@
+1716222528871	geckodriver	INFO	Listening on 127.0.0.1:63831
+1716222531961	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofileaOXDxE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716222532380	Marionette	INFO	Marionette enabled
+1716222532487	Marionette	INFO	Listening on port 63840
+WebDriver BiDi listening on ws://127.0.0.1:63832
+Read port: 63840
+1716222532734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63832/devtools/browser/45309c3c-2e04-4406-93ab-e964bee82edf
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 5272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 7825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716222562519	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js, line 1: Script terminated by timeout at:
+f@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:21977
+
+1716222755270	Marionette	INFO	Stopped listening on port 63840
+Dynamically enable window occlusion 1

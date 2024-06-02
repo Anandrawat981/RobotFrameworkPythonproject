@@ -1,0 +1,30 @@
+1716475240303	geckodriver	INFO	Listening on 127.0.0.1:51400
+1716475243374	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofileuIUIRM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716475243795	Marionette	INFO	Marionette enabled
+1716475243914	Marionette	INFO	Listening on port 51408
+WebDriver BiDi listening on ws://127.0.0.1:51401
+Read port: 51408
+1716475244120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51401/devtools/browser/29a99cde-7c14-413a-8046-617d8203945b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8mk731zYjtAK1ZddBZG3rzb7fLiVBXbgU8YQ_Ehq5z0.js line 2 > eval line 1249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716475274577	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:139:886
+cm@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:304:356
+Mm@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:312:747
+xG/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:568:178
+ca.Mk/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:516:126
+ca.Mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-STHL8RV4RK&l=dataLayer&cx=c:515:420
+invokeTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:8497
+runTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:3906
+invokeTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:9547
+p@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:21830
+f@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:22076
+
+1716475957835	Marionette	INFO	Stopped listening on port 51408
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

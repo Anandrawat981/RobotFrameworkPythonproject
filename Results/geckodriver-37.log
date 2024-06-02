@@ -1,0 +1,21 @@
+1716113744310	geckodriver	INFO	Listening on 127.0.0.1:64126
+1716113747393	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofileXgE1U6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716113747902	Marionette	INFO	Marionette enabled
+1716113748044	Marionette	INFO	Listening on port 64145
+WebDriver BiDi listening on ws://127.0.0.1:64127
+Read port: 64145
+1716113748277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64127/devtools/browser/939b5b0a-9f11-42ec-9b82-5fd58b1bc52b
+JavaScript error: https://fundingchoicesmessages.google.com/i/pub-6251538267574677?ers=1, line 443: TypeError: __googlefc.fcKernelManager is undefined
+JavaScript error: https://fundingchoicesmessages.google.com/i/pub-6251538267574677?ers=1, line 443: TypeError: __googlefc.fcKernelManager is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 5081 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716113777938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js, line 1: Script terminated by timeout at:
+f@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:21977
+
+1716113847794	Marionette	INFO	Stopped listening on port 64145
+Dynamically enable window occlusion 1

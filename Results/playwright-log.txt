@@ -1,0 +1,39 @@
+{"level":30,"time":"2024-05-23T17:01:08.674Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"Listening on 52984"}
+(node:17236) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-05-23T17:01:09.310Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-05-23T17:01:09.310Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-05-23T17:01:09.313Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-05-23T17:01:09.314Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\index.js:10068:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\index.js:10693:59)
+    at PlaywrightServer.setTimeout (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\index.js:10943:57)
+    at Object.onReceiveHalfClose (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1273:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:534:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:576:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:376:18)
+    at ServerHttp2Stream.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2024-05-23T17:01:21.149Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-05-23T17:01:21.149Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\index.js:10068:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\index.js:10693:59)
+    at PlaywrightServer.setTimeout (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\index.js:10943:57)
+    at Object.onReceiveHalfClose (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1273:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:534:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:576:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\Anand\RobertFrameworkpython\.venv\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:376:18)
+    at ServerHttp2Stream.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2024-05-23T17:01:21.251Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-05-23T17:01:21.251Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-05-23T17:01:21.344Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-05-23T17:01:21.344Z","pid":17236,"hostname":"DESKTOP-K8C4JVT","msg":"End of node method closeAllBrowsers"}

@@ -1,0 +1,33 @@
+1716222720221	geckodriver	INFO	Listening on 127.0.0.1:64063
+1716222723281	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofileRY1yNk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716222723689	Marionette	INFO	Marionette enabled
+1716222723820	Marionette	INFO	Listening on port 64071
+WebDriver BiDi listening on ws://127.0.0.1:64064
+Read port: 64071
+1716222724052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64064/devtools/browser/85088154-21f1-4c9e-ae7e-bd7de97fd00c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 5740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 3238 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 6008 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SessionStore: "Discarding window with 0 saveable tabs and 0 closed tabs"
+JavaScript warning: https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js, line 1: Script terminated by timeout at:
+get state@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:9623
+runTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:3997
+invokeTask@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:9547
+p@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:21830
+f@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:22076
+
+1716222754960	Marionette	INFO	Stopped listening on port 64071
+Dynamically enable window occlusion 1
+1716222755057	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152071198, errorCode: 2, reason: error
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/AsyncShutdown.sys.mjs", 569))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

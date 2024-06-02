@@ -1,0 +1,21 @@
+1716222640929	geckodriver	INFO	Listening on 127.0.0.1:63909
+1716222644001	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofileu9gyVN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716222644399	Marionette	INFO	Marionette enabled
+1716222644513	Marionette	INFO	Listening on port 63917
+WebDriver BiDi listening on ws://127.0.0.1:63910
+Read port: 63917
+1716222644727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63910/devtools/browser/5a59a391-4eae-4df0-a895-aefd7294da40
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 4814 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 2455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xjhP1ZZuKGHO2MkN5-NpKnD2PsyBoLvUaPEUlRzCpD8.js line 2 > eval line 7682 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716222675281	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js, line 1: Script terminated by timeout at:
+f@https://letcode.in/polyfills.1aefc75bf7d5acb269d2.js:1:21977
+
+1716222755487	Marionette	INFO	Stopped listening on port 63917
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

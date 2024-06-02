@@ -1,0 +1,7 @@
+datasources:f4dca83ee9292d3d40ca5844233b3c1895f97ef7
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:21e9a52b310b7e318b443bd8c7d81401644f1e27
+--suite DataDrivenTestCases.DDTusingCSV
+--suite DataDrivenTestCases.DDTusingExcel
+--suite DataDrivenTestCases.DatadrivenTest1

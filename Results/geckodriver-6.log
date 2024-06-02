@@ -1,0 +1,19 @@
+1716099498810	geckodriver	INFO	Listening on 127.0.0.1:57094
+1716099501925	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofile1KhQVN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716099503259	Marionette	INFO	Marionette enabled
+1716099503384	Marionette	INFO	Listening on port 57108
+WebDriver BiDi listening on ws://127.0.0.1:57095
+Read port: 57108
+1716099503753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57095/devtools/browser/4468ad2e-d9af-462c-85ea-8bc3af3b365e
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1716099533470	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 22: Script terminated by timeout at:
+fix@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:22:14740
+r@https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js:22:19729
+
+1716099649226	Marionette	INFO	Stopped listening on port 57108
+Dynamically enable window occlusion 1

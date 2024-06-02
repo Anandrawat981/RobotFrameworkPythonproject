@@ -1,0 +1,20 @@
+1716112490588	geckodriver	INFO	Listening on 127.0.0.1:62860
+1716112493724	mozrunner::runner	INFO	Running command: "C:\\Users\\Anand\\.cache\\selenium\\firefox\\win64\\126.0\\firefox.exe" "--marionette" "--remote-debugging- ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Anand\\AppData\\Local\\Temp\\rust_mozprofilePK116A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716112494245	Marionette	INFO	Marionette enabled
+1716112494366	Marionette	INFO	Listening on port 62872
+WebDriver BiDi listening on ws://127.0.0.1:62861
+Read port: 62872
+1716112494598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62861/devtools/browser/de49b9ed-2a1b-4cc1-91cf-bddd70c70962
+JavaScript error: https://fundingchoicesmessages.google.com/i/pub-6251538267574677?ers=1, line 443: TypeError: __googlefc.fcKernelManager is undefined
+JavaScript error: https://fundingchoicesmessages.google.com/i/pub-6251538267574677?ers=1, line 443: TypeError: __googlefc.fcKernelManager is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 4796 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3236 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716112525246	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716113027772	Marionette	INFO	Stopped listening on port 62872
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
